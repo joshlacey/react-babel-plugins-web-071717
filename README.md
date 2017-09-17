@@ -2,12 +2,12 @@
 
 ## Overview
 
-We'll explain what Babel does and how to use it for React development. 
+We'll explain what Babel does and how to use it for React development.
 
 ## Objectives
 1. Define and describe the benefits of using Babel plugins
 2. Find Babel plugins and install them
-2. Describe a few useful plugins for React development
+2. Describe a few useful plugins for React developmentd
 
 ## Babel recap
 Babel is used to transform our ES2015 (and even newer) code to ES5 — the previous version of JavaScript that all browsers know and understand. Most of the ES2015 features are already present in browsers, but it's best to transpile your code using Babel anyway.
